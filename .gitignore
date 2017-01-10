@@ -1,0 +1,11 @@
+# OS Noise
+.DS_Store
+
+# Node Modules
+node_modules
+
+# Build files
+build
+
+# Personal
+scratch.md
