@@ -1,5 +1,5 @@
 {
-  "name": "customerjourney",
+  "name": "browserifypostcssstarter",
   "version": "1.0.0",
   "description": "",
   "repository": {
@@ -7,8 +7,8 @@
     "url": "ssh://git@stash.ddhive.com:7999/cj/care-connect.git"
   },
   "scripts": {},
-  "author": "Matt Cairns, Deloitte Digital",
-  "private": true,
+  "author": "Matt Cairns",
+  "private": false,
   "devDependencies": {
     "autoprefixer": "^6.6.1",
     "babel-preset-es2015": "^6.18.0",
